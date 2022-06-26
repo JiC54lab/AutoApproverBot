@@ -7,7 +7,7 @@ A telegram to automatically accept upcoming join requests in a chat.
 `Commands` - No command is needed, just add bot to thw chat and make admin.
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JiC54lab/AutoApproverBot)
 
 ## Support 
 For any quries, head to our [telegram support](https://t.me/userchatroom) chat!
