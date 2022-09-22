@@ -51,7 +51,7 @@ func main() {
 		fmt.Println("Failed to start bot:", poll.Error())
 	}
 
-	fmt.Printf("@%s has been sucesfully started\n💝Made by @JiC54\n", bot.Username)
+	fmt.Printf("@%s has been sucesfully started\n💝Made by @JiC54_Official\n", bot.Username)
 	updater.Idle()
 }
 
@@ -66,8 +66,8 @@ func Start(bot *gotgbot.Bot, ctx *ext.Context) error {
 I am a bot made for accepting newly coming join requests at the time they comes.
 I am made with <a href="go.dev">golang</a> to give a better performance!
 
-Bot made with 💝 by <a href="t.me/jic54">JiC54</a> for you!
-<b>Support Chat:</b> @JiC54
+Bot made with 💝 by <a href="t.me/jic54_official">JiC54</a> for you!
+<b>Support Chat:</b> @JiC54_Official
 	`
 	ctx.EffectiveMessage.Reply(
 		bot,
